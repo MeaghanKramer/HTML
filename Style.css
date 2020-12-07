@@ -10,7 +10,7 @@ body {
     color: navy;
 }
 h1 {
-    color: yellow;
+    color: blue;
     background-color: blue;
 }
 body {
@@ -19,12 +19,10 @@ body {
 }
 
 h1 {
-    color: #ffc;
-    background-color: #009;
-}body {
-    font-family: arial, helvetica, sans-serif;
-    font-size: 14px;
+    color: #FFB6C1;
+   
 }
+
 
 h1 {
     font-size: 2em;
@@ -48,7 +46,7 @@ strong {
     text-align: center;
 }h2 {
     font-size: 1.5em;
-    background-color: #ccc;
+    background-color: #FFB6C1;
     margin: 20px;
     padding: 40px;
 }h2 {
@@ -56,12 +54,12 @@ strong {
     border-width: 3px;
     border-left-width: 10px;
     border-right-width: 10px;
-    border-color: red;
+    border-color: blue;
 }body {
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
     color: black;
-    background-color: #ffc;
+    background-color: #E6E6FA;
     margin: 20px;
     padding: 0;
 }
@@ -89,7 +87,7 @@ h1 {
 
 h2 {
     color: white;
-    background-color: #090;
+    background-color: #FFB6C1;
     font-size: 1.5em;
     margin: 0;
     padding: 2px;
